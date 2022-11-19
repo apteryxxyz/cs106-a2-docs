@@ -14,7 +14,7 @@ Enter the author's first and last names, then press the "Create" button.
 
 When on the admin menu, click on the "Author Search" button, upon clicking, you will be taken to the author search window.
 
-![Author search full screen window](./assets/author_search.png)
+![Author search window](./assets/author_search.png)
 
 Once here, press on the author you are wanting to modify, a manage author dialog box will appear.
 

@@ -16,7 +16,7 @@ Enter the book's details, then press "Create".
 
 When on the admin menu, click on the "Book Search" button, upon clicking, you will be taken to the book search window.
 
-![Book search full screen window](./assets/book_search.png)
+![Book search window](./assets/book_search.png)
 
 Once there, press on the book you are wanting to modify, a Manage Book dialog box will appear.
 

@@ -14,7 +14,7 @@ Enter the member's details, then press the "Create" button.
 
 When on the Admin menu, click on the "member Search" button, upon clicking, you will be taken to the member search window.
 
-![Member search full screen window](./assets/member_search.png)
+![Member search window](./assets/member_search.png)
 
 Once here, press on the member you are wanting to modify, a manage member dialog box will appear.
 
