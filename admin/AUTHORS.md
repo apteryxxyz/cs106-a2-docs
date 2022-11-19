@@ -4,7 +4,7 @@
 
 ## Create a new author
 
-When on the Admin menu, press on the "Add Author" button, once clicked a dialog box will appear.
+When on the admin menu, press on the "Add Author" button, once clicked a dialog box will appear.
 
 ![Add author dialog box](./assets/add_author.png)
 
@@ -12,11 +12,11 @@ Enter the author's first and last names, then press the "Create" button.
 
 ## Edit or delete an existing author
 
-When on the Admin menu, click on the "Author Search" button, upon clicking, you will be taken to the Author Search window.
+When on the admin menu, click on the "Author Search" button, upon clicking, you will be taken to the author search window.
 
 ![Author search full screen window](./assets/author_search.png)
 
-Once here, press on the author you are wanting to modify, a Manage Author dialog box will appear.
+Once here, press on the author you are wanting to modify, a manage author dialog box will appear.
 
 ![Manage author dialog box](./assets/manage_author.png)
 
