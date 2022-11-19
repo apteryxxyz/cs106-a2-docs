@@ -4,7 +4,7 @@
 
 ## Browse the book catalogue
 
-From the Member menu, press on the "Book Search" button. You will be taken to the book search window.
+From the member menu, press on the "Book Search" button. You will be taken to the book search window.
 
 ![Book search window](./assets/book_search.png)
 
