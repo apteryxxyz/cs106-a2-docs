@@ -1,4 +1,4 @@
-# Member Menu
+# Member
 
 - [Go back](../README.md)
 
@@ -13,5 +13,7 @@
   - [Borrowing a book](./BORROWS.md#borrowing-a-book)
   - [Viewing your own borrows](./BORROWS.md#viewing-your-own-borrows)
   - [Returning a book](./BORROWS.md#returning-a-book)
-  
+
+## Member window
+
 ![Member menu window](./assets/member_menu.png)

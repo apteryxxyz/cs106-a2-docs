@@ -1,4 +1,4 @@
-# Admin Menu
+# Admin
 
 - [Go back](../README.md)
 
@@ -13,5 +13,7 @@
 - [Managing members](./MEMBERS.md#managing-members)
   - [Create a new member](./MEMBERS.md#create-a-new-member)
   - [Edit or delete an existing member](./MEMBERS.md#edit-or-delete-an-existing-member)
+
+## Admin window
 
 ![Admin menu window](./assets/admin_menu.png)
